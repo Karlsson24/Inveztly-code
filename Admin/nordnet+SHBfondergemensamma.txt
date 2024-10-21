@@ -1,0 +1,321 @@
+AGCM Asia Dividend RC1 SEK
+AMF Aktiefond Asien Stilla havet
+AMF Aktiefond Europa
+AMF Aktiefond Global
+AMF Aktiefond Nordamerika
+AMF Aktiefond Småbolag
+AMF Aktiefond Sverige
+AMF Aktiefond Världen
+AMF Balansfond
+AMF Räntefond Kort
+AMF Räntefond Lång
+Aktie-Ansvar Avkastningsfond
+Aktie-Ansvar Europa
+Aktie-Ansvar Räntestrategi
+Aktie-Ansvar Saxxum Aktiv A
+Aktie-Ansvar Sverige A
+Aktiehuset Fond
+Aktiespararna Direktavkastning A
+Aktiespararna Topp Sverige Hållbar A
+Alcur
+Alcur Grow B
+Alcur Select
+Arcturus A
+Atlant Edge
+Atlant Multi-Strategy
+Atlant Opportunity
+Atlant Sharp
+Atlant Stability
+AuAg Precious Green A
+AuAg Silver Bullet A
+BL-Emerging Markets B EUR
+Brummer Multi-Strategy
+Brummer Multi-Strategy 2xL
+C WorldWide Asia 1A
+C WorldWide Emerging Markets 1A
+C WorldWide Global Equities 1A
+C WorldWide Global Equities Ethical 1A
+C WorldWide Healthcare Select 1A
+C WorldWide Nordic 1A
+C WorldWide Stable Equities 1A
+CB European Quality Fund A
+CB Save Earth Fund RC
+Captor Dahlia Green Bond A
+Captor Dahlia Green Bond B
+Captor Iris Bond A
+Captor Iris Bond B
+Carlsson Norén Yield Opportunity A
+Carnegie Asia A
+Carnegie Fastighetsfond Norden A
+Carnegie Global Quality Companies A
+Carnegie Indienfond A
+Carnegie Investment Grade A
+Carnegie Likviditetsfond A
+Carnegie Listed Infrastructure A
+Carnegie Listed Private Equity A
+Carnegie Obligationsfond A
+Carnegie Rysslandsfond A
+Carnegie Småbolagsfond A
+Carnegie Strategifond A
+Carnegie Sverigefond A
+Carnegie Vega A
+Chelonia Market Neutral A
+Cicero Avkastningsfond A
+Cicero Hållbar Mix A
+Cicero Sverige A
+Cliens Global Småbolag A
+Cliens Micro Cap A
+Cliens Mixfond A
+Cliens Mixfond B
+Cliens Småbolag A
+Cliens Sverige A
+Cliens Sverige Fokus A
+Coeli Mix R SEK
+Consensus Småbolag A
+Danske Invest Sverige Småbolag SA SEK
+Delphi Europe A
+Delphi Global A
+Delphi Nordic A
+Didner & Gerge Aktiefond
+Didner & Gerge Global
+Didner & Gerge Small & Microcap
+Didner & Gerge Småbolag
+Didner & Gerge US Small and Microcap
+East Capital Balkans G SEK
+East Capital Multi-Strategi A SEK
+East Capital Russia G SEK
+Elementa
+Enter Cross Credit A
+Enter Select A
+Enter Select Pro
+Enter Småbolagsfond A
+Enter Sverige A
+Espiria 30 C
+Espiria 90 C
+Espiria Global A
+Evli Corporate Bond B SEK
+Evli Global B SEK
+Evli Global Multi Manager 30 Fund B
+Evli Nordic Corporate Bond B SEK
+Evli Short Corporate Bond B SEK
+Fondita Nordic Micro Cap B
+Fondita Nordic Small Cap B
+GodFond Sverige & Världen
+Handelsbanken Amerika Tema (A1 SEK)
+HealthInvest Alpha Fund D
+Holberg Triton A
+Humle Småbolagsfond A
+IKC Avkastningsfond
+Indecap Guide Q30 C
+Indecap Guide Tillväxtmarknadsfond A
+Investerum Basic Value
+Investtech Invest D
+Jupiter China Equity Fund L USD Acc
+Kvartil Investmentbolag+ Calculus A
+Kvartil Multi Asset A
+Kvartil Multi Asset C
+Lancelot Camelot B
+Lannebo Europa Småbolag A SEK
+Lannebo High Yield
+Lannebo Mixfond
+Lannebo Norden Hållbar SEK
+Lannebo Räntefond Kort
+Lannebo Småbolag
+Lannebo Sustainable Corporate Bond A SEK
+Lannebo Sverige
+Lannebo Sverige Hållbar A SEK
+Lannebo Sverige Hållbar B SEK
+Lannebo Sverige Plus
+Lannebo Teknik
+Lannebo Teknik Småbolag
+Lundmark Climate Impact Fund
+Lynx
+Lynx Dynamic
+Länsförsäkringar Asienfond A
+Länsförsäkringar Europa Aktiv A
+Länsförsäkringar Fastighet Europa
+Länsförsäkringar Fastighetsfond A
+Länsförsäkringar Global Vision A
+Länsförsäkringar Kort räntefond
+Länsförsäkringar Lång Räntefond A
+Länsförsäkringar Multistrategi
+Länsförsäkringar Sverige Vision A
+Länsförsäkringar Tillväxtmarknad Aktiv A
+Länsförsäkringar USA Aktiv A
+Naventi Balanserad Flex
+Naventi Offensiv Flex
+Nordea Alfa
+Nordea Asian Stars A SEK
+Nordea Bostadsobligationsfond icke-utd
+Nordea Donationsmedelsfond utd
+Nordea Obligationsfond icke-utd
+Nordea Olympiafond
+Nordea Småbolagsfond Sverige
+Nordea Stabil
+Nordea Stratega 30
+Nordea Stratega 50
+Nordea Stratega 70
+Nordea Sverige Passiv icke-utd
+Nordea Swedish Stars icke-utd
+Nordic Equities Sweden
+Norron Select R
+ODIN Emerging Markets C SEK
+ODIN Europa C SEK
+ODIN Global C SEK
+ODIN Norden C SEK
+ODIN Norge C SEK
+ODIN Sverige C SEK
+Peak Equity Alpha (A) SEK
+Pictet-Biotech R USD
+Pictet-Health R USD
+Pictet-Premium Brands R EUR
+Pictet-Water R EUR
+Plain Capital BronX
+PriorNilsson Evolve A
+PriorNilsson Idea
+PriorNilsson Realinvest A
+PriorNilsson Sverige Aktiv A
+PriorNilsson Yield
+Proethos Fond
+S-Bank Asset Management 100 A
+S-Bank Emerging Markets ESG Equity A
+S-Bank Fenno Equity A
+S-Bank Frontier Markets Equity B
+SEB Active 30 A
+SEB Active 55 A
+SEB Active 80 A
+SEB Aktiesparfond
+SEB Blandfond Sverige
+SEB Dynamisk Aktiefond
+SEB Emerging Marketsfond
+SEB Europafond
+SEB Europafond Småbolag
+SEB Europe Equity Fund C EUR
+SEB Europe Equity Fund D EUR
+SEB Fastighetsfond Norden A
+SEB Företagsobligationsfond A
+SEB Global Aktiefond A
+SEB Inst Obligationsfond SEK utd
+SEB Likviditetsfond SEK
+SEB Läkemedelsfond
+SEB Nordamerikafond Småbolag
+SEB Nordenfond
+SEB Obligationsfond SEK
+SEB PB Aktiv 25
+SEB Sverige Expanderad
+SEB Sverige Indexnära A
+SEB Sverigefond
+SEB Sverigefond Småbolag
+SEB Sverigefond Småbolag C/R
+SEB Swedish Value Fund
+SEB Teknologifond
+SEB Världenfond
+SEB WWF Nordenfond
+SEB Östeuropafond
+SKAGEN Avkastning
+SKAGEN Focus A
+SKAGEN Global A
+SKAGEN Kon-Tiki A
+SKAGEN Vekst A
+SKAGEN m2 A
+SPP Generation 40-tal
+SPP Generation 50-tal
+SPP Generation 60-tal
+SPP Generation 70-tal
+SPP Generation 80-tal
+Sensor Sverige Select
+Simplicity Företagsobligationer A
+Simplicity Global Corporate Bond A
+Simplicity Likviditet A
+Simplicity Norden
+Simplicity Småbolag Global
+Simplicity Småbolag Sverige A
+Simplicity Sverige
+Skandia Asien
+Skandia Balanserad
+Skandia Europa Exponering
+Skandia Försiktig
+Skandia Global Exponering A
+Skandia Idéer För Livet
+Skandia Japan Exponering
+Skandia Korträntefond
+Skandia Realräntefond
+Skandia Småbolag Sverige
+Skandia Sverige
+Skandia Time Global
+Skandia USA
+Skandia Världen
+Skandia Världen Sverige
+Skandia Världsnaturfonden
+Sparinvest SICAV Global Value EUR R
+Spiltan Aktiefond Investmentbolag
+Spiltan Aktiefond Småland
+Spiltan Aktiefond Stabil
+Spiltan Globalfond Investmentbolag
+Spiltan Högräntefond
+Spiltan Räntefond Sverige
+Spiltan Småbolagsfond
+Strand Företagsobligationsfond B
+Strand Förmögenhetsfond
+Strand Småbolagsfond
+Swedbank Humanfond
+Swedbank Robur Access Asien A
+Swedbank Robur Access Edge Japan A
+Swedbank Robur Access Europa A
+Swedbank Robur Access Global A
+Swedbank Robur Access Mix A
+Swedbank Robur Access Sverige A
+Swedbank Robur Access USA A
+Swedbank Robur Aktiefond Pension
+Swedbank Robur Allemansfond Komplett
+Swedbank Robur Asienfond A
+Swedbank Robur Dynamic A
+Swedbank Robur Europafond A
+Swedbank Robur Exportfond A
+Swedbank Robur Fastighet A
+Swedbank Robur Global Emerging Markets A
+Swedbank Robur Global High Dividend A
+Swedbank Robur Globalfond A
+Swedbank Robur Healthcare A
+Swedbank Robur Japanfond A
+Swedbank Robur Kapitalinvest
+Swedbank Robur Nordenfond
+Swedbank Robur Ny Teknik A
+Swedbank Robur Obligation A
+Swedbank Robur Obligation Plus A
+Swedbank Robur Realränta A
+Swedbank Robur Rysslandsfond A
+Swedbank Robur Räntefond Kort A
+Swedbank Robur Räntefond Kort Plus A
+Swedbank Robur Selection 50
+Swedbank Robur Selection 75
+Swedbank Robur Small Cap USA A
+Swedbank Robur Småbolagsfond Norden A
+Swedbank Robur Småbolagsfond Sverige A
+Swedbank Robur Technology A
+Swedbank Robur Transfer 70
+Swedbank Robur Transition Energy A
+Swedbank Robur Transition Global A
+Swedbank Robur USA A
+Swedbank Robur Östeuropafond A
+Tellus Globala Investmentbolag
+Tundra Sustainable Frontier Fund A SEK
+eSports Fund
+Ålandsbanken Global Aktie B
+Ålandsbanken Norden Aktie SEK
+Öhman Emerging Markets A
+Öhman FRN A
+Öhman FRN B
+Öhman Företagsobligationsfond A
+Öhman Global A
+Öhman Global B
+Öhman Grön Obligationsfond A
+Öhman Investment Grade A
+Öhman Kort Ränta A
+Öhman Marknad Europa A
+Öhman Obligationsfond A
+Öhman Realräntefond A
+Öhman Räntefond Kompass A
+Öhman Småbolagsfond A
+Öhman Sverige A
+Öhman Sweden Micro Cap A
